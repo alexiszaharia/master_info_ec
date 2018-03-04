@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_lista"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="Lista masuratori" />
+        <item
+            android:id="@+id/nav_adaugare"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="Adaugare Inregistrare Noua" />
+        <item
+            android:id="@+id/nav_setari"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="Setari" />
+        <item
+            android:id="@+id/nav_despre"
+            android:title="Despre" />
+    </group>
+
+</menu>
